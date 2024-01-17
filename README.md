@@ -20,8 +20,10 @@ To build sphinx documentation:
 # Getting Started
 See the online manual [here](https://embecosm.github.io/dcEmb_docs/).
 
-The codebase is briefly undergoing a substantial set of changes. These
-instructions may be out of date
+See the main codebase [here](https://github.com/embecosm/dcEmb/blob/main/README.md).
+
+The codebase is undergoing a substantial set of changes. Some parts of
+the online manual may be out of date.
 
 
 # Changelog
