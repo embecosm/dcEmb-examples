@@ -17,8 +17,8 @@
 #include <Eigen/Dense>
 #include <fstream>
 #include <iostream>
-#include "bmr_model.hh"
-#include "peb_model.hh"
+#include "dcEmb/bmr_model.hh"
+#include "dcEmb/peb_model.hh"
 #include "species_struct.hh"
 #include "tests/dynamic_weather_model_test.hh"
 #include "utility.hh"

@@ -17,8 +17,8 @@
 #include <Eigen/Dense>
 #include <fstream>
 #include <iostream>
-#include "bmr_model.hh"
-#include "peb_model.hh"
+#include "dcEmb/bmr_model.hh"
+#include "dcEmb/peb_model.hh"
 #include "tests/dynamic_3body_model_test.hh"
 
 /**

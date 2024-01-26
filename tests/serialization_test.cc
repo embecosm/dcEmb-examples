@@ -21,10 +21,10 @@
 #include <vector>
 #include "3body/dynamic_3body_model.hh"
 #include "COVID/dynamic_COVID_model.hh"
-#include "bmr_model.hh"
 #include "country_data.hh"
+#include "dcEmb/bmr_model.hh"
+#include "dcEmb/peb_model.hh"
 #include "import_COVID.hh"
-#include "peb_model.hh"
 #include "serialization.hh"
 
 TEST(serialization, 3body) {

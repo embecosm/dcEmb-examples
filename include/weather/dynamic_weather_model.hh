@@ -12,7 +12,7 @@
  */
 
 #include <vector>
-#include "dynamic_model.hh"
+#include "dcEmb/dynamic_model.hh"
 #include "parameter_location_weather.hh"
 #include "species_struct.hh"
 #pragma once

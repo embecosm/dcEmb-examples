@@ -12,7 +12,7 @@
  */
 
 #include <vector>
-#include "dynamic_model.hh"
+#include "dcEmb/dynamic_model.hh"
 #include "parameter_location_3body.hh"
 #pragma once
 
