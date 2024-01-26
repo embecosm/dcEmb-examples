@@ -16,6 +16,7 @@
 #include <Eigen/Dense>
 #include <fstream>
 #include <iostream>
+#include <vector>
 
 #pragma once
 struct species {

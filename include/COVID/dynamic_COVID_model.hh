@@ -14,7 +14,7 @@
 #include <Eigen/Dense>
 #include <Eigen/Sparse>
 #include <vector>
-#include "dynamic_model.hh"
+#include "dcEmb/dynamic_model.hh"
 #include "parameter_location_COVID.hh"
 #define SparseMD Eigen::SparseMatrix<double>
 #define SparseVD Eigen::SparseVector<double>
